@@ -1,0 +1,33 @@
+{
+    "": [
+        "hexo-blog-xiaoyuchen", 
+        "node_modules", 
+        "themes", 
+        "source", 
+        "scaffolds"
+    ], 
+    "__positions": {
+        "source": 4, 
+        "source/_posts": 4001, 
+        "node_modules": 2, 
+        "themes": 3, 
+        "source/_posts/hello-world.md": 4001001, 
+        "hexo-blog-xiaoyuchen": 1, 
+        "scaffolds": 5
+    }, 
+    "source/_posts": [
+        "hello-world.md"
+    ], 
+    "__raw_positions": {
+        "source/_posts/hello-world.md": 1, 
+        "source/_posts": 1, 
+        "node_modules": 2, 
+        "themes": 3, 
+        "source": 4, 
+        "hexo-blog-xiaoyuchen": 1, 
+        "scaffolds": 5
+    }, 
+    "source": [
+        "_posts"
+    ]
+}
